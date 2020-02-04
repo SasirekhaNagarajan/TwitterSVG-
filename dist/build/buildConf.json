@@ -1,0 +1,16 @@
+{
+ "templates": [
+  "/Users/sasi-7378/lyte/ResponsiveWebPage/components/templates/responsive-webpage.html",
+  "/Users/sasi-7378/lyte/ResponsiveWebPage/components/templates/twitter-popup.html"
+ ],
+ "styles": [
+  "/Users/sasi-7378/lyte/ResponsiveWebPage/components/styles/responsive-webpage.css",
+  "/Users/sasi-7378/lyte/ResponsiveWebPage/components/styles/twitter-popup.css",
+  "/Users/sasi-7378/lyte/ResponsiveWebPage/components/styles/animationZoho.css"
+ ],
+ "adapters": [],
+ "serializers": [],
+ "type": "development",
+ "/Users/sasi-7378/lyte/ResponsiveWebPage": 48643,
+ "port": 3000
+}

@@ -1,0 +1,3208 @@
+Building components ....
+[Time] : copyAppDir =>0.002 s
+[Time] => components completed : 0.002 s
+========== Components compiled ==========
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.008 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.004 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Error in components/javascript/responsive-webpage.js
+[Delete] components/javascript/responsive-webpage.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/main.css calling buildComponents
+========== Components compiled ==========
+[Watch] => file changed components/styles/main.css calling buildComponents
+========== Components compiled ==========
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] file deleted manually =>  components/styles/main.css calling buildComponents
+Searching for syntax errors.....
+Callback to templateProcessing function initated
+Generating dist components...
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Error in components/javascript/responsive-webpage.js
+[Delete] components/javascript/responsive-webpage.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+[Error] => copy js to dist 
+
+/Users/sasi-7378/lyte/ResponsiveWebPage/components/javascript/responsive-webpage.js
+  69:8  error  Parsing error: Identifier 'modal' has already been declared
+
+✖ 1 problem (1 error, 0 warnings)
+
+
+========== Components compiled ==========
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Error in components/javascript/responsive-webpage.js
+[Delete] components/javascript/responsive-webpage.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Generating dist components...
+
+========== Components compiled ==========
+Callback to templateProcessing function initated
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Callback to templateProcessing function initated
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Generating dist components...
+
+========== Components compiled ==========
+Callback to templateProcessing function initated
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/animationZoho.css calling buildComponents
+========== Components compiled ==========
+[Watch] => file changed components/styles/animationZoho.css calling buildComponents
+========== Components compiled ==========
+[Watch] => file changed components/styles/animationZoho.css calling buildComponents
+========== Components compiled ==========
+[Watch] => file changed components/styles/animationZoho.css calling buildComponents
+========== Components compiled ==========
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/animationZoho.css calling buildComponents
+========== Components compiled ==========
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/animationZoho.css calling buildComponents
+========== Components compiled ==========
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/animationZoho.css calling buildComponents
+========== Components compiled ==========
+[Watch] => file changed components/styles/animationZoho.css calling buildComponents
+========== Components compiled ==========
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Generating dist components...
+
+========== Components compiled ==========
+Callback to templateProcessing function initated
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Error in components/javascript/responsive-webpage.js
+[Delete] components/javascript/responsive-webpage.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Generating dist components...
+
+========== Components compiled ==========
+Callback to templateProcessing function initated
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Error in components/javascript/responsive-webpage.js
+[Delete] components/javascript/responsive-webpage.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+[Error] => copy js to dist 
+
+/Users/sasi-7378/lyte/ResponsiveWebPage/components/javascript/responsive-webpage.js
+  106:4  error  Parsing error: Unexpected token }
+
+✖ 1 problem (1 error, 0 warnings)
+
+
+========== Components compiled ==========
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Error in components/javascript/responsive-webpage.js
+[Delete] components/javascript/responsive-webpage.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Error in components/javascript/responsive-webpage.js
+[Delete] components/javascript/responsive-webpage.js
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.005 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.003 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/javascript/responsive-webpage.js calling buildComponents
+[Watch] Running componentCopy rule
+[Watch] Dist changes done
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.001 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/templates/responsive-webpage.html calling buildComponents
+Searching for syntax errors.....
+[UnclosedTags Success] =>components/templates/responsive-webpage.html
+[Time] => find unclosedTags => 0.002 s
+Running compilerule ...
+[Time] => Convert Lyte syntax => 0.001 s
+Callback to templateProcessing function initated
+Generating dist components...
+
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+
+[Watch] => file changed components/styles/responsive-webpage.css calling buildComponents
+========== Components compiled ==========
+Consolidated file created in the dist/app.js
+

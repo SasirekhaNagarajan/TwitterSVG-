@@ -1,0 +1,448 @@
+:root {
+    --bgcolor1: #660000;
+    --bgcolor2: #990000;
+    --bgcolor3: #EA4C88;
+    --bgcolor4: #993399;
+    --bgcolor5: #663399;
+    --bgcolor6: #165151;
+    --bgcolor7: #37A5A5;
+    --bgcolor8: #D24143;
+    --bgcolor9: #DE4F5D;
+    --bgcolor10: #07385D;
+    --bgcolor11: #1E5598;
+    --bgcolor12: #2D72D9;
+    --bgcolor13: #018EE0;
+    --bgcolor14: #0099CC;
+    --bgcolor15: #E9A234;
+    --bgcolor16: #996633;
+    --bgcolor17: #553A48;
+    --bgcolor18: #313949;
+    --color1: whitesmoke;
+}
+
+body {
+    margin: 0;
+}
+
+responsive-webpage > .mainContent {
+    height: 100vh;
+    display: flex;
+    flex-flow: column;
+}
+
+responsive-webpage > .mainContent > #header > h2{
+    font-size: 27px;
+    color: var(--color2);
+}
+
+responsive-webpage > .mainContent > #header {
+    text-align: center;
+    height: 60px;
+    background-color: var(--color1);
+}
+
+.flexboxView {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+}
+
+.flexboxView > div {
+    flex: 1;
+    margin: 3px;
+    height: 85vh;
+}
+
+responsive-webpage > .mainContent > .flexboxView > div {
+    border: 1px solid var(--color1);
+    border-radius: 5px;
+}
+
+responsive-webpage > .mainContent > .flexboxView > #twitter {
+    overflow: scroll;
+}
+
+/** Theme Selector */
+.themes {
+    float: right;
+    margin: 20px 2px;
+}
+
+.rod {
+    width: 30px;
+    height: 15px;
+    float: left;
+    border-bottom: solid 2px #fff;
+}
+
+.theme1 {
+    --color1: #660000;
+    --color2: whitesmoke;
+}
+
+.theme2 {
+    --color1: #990000;
+    --color2: whitesmoke;
+}
+
+.theme3 { 
+    --color1: #EA4C88;
+}
+
+.theme4 { 
+    --color1: #993399;
+}
+
+.theme5 { 
+    --color1: #663399;
+}
+
+.theme6 { 
+    --color1: #165151;
+}
+
+.theme7 { 
+    --color1: #37A5A5;
+}
+
+.theme8 { 
+    --color1: #D24143;
+}
+
+.theme9 { 
+    --color1: #DE4F5D;
+}
+
+.theme10 { 
+    --color1: #07385D;
+    --color2: whitesmoke;
+}
+
+.theme11 { 
+    --color1: #1E5598;
+}
+
+.theme12 { 
+    --color1: #2D72D9;
+}
+
+.theme13 { 
+    --color1: #018EE0;
+}
+
+.theme14 { 
+    --color1: #0099CC;
+}
+
+.theme15 { 
+    --color1: #E9A234;
+}
+
+.theme16 { 
+    --color1: #996633;
+}
+
+.theme17 { 
+    --color1: #553A48;
+    --color2: whitesmoke;
+}
+
+.theme18 { 
+    --color1: #313949;
+    --color2: whitesmoke;
+}
+
+.bgcolor1 { 
+    background-color: var(--bgcolor1);
+}
+
+.bgcolor2 { 
+    background-color: var(--bgcolor2);
+}
+
+.bgcolor3 { 
+    background-color: var(--bgcolor3);
+}
+
+.bgcolor4 { 
+    background-color: var(--bgcolor4);
+}
+
+.bgcolor5 { 
+    background-color: var(--bgcolor5);
+}
+
+.bgcolor6 { 
+    background-color: var(--bgcolor6);
+}
+
+.bgcolor7 { 
+    background-color: var(--bgcolor7);
+}
+
+.bgcolor8 { 
+    background-color: var(--bgcolor8);
+}
+
+.bgcolor9 { 
+    background-color: var(--bgcolor9);
+}
+
+.bgcolor10 { 
+    background-color: var(--bgcolor10);
+}
+
+.bgcolor11 { 
+    background-color: var(--bgcolor11);
+}
+
+.bgcolor12 { 
+    background-color: var(--bgcolor12);
+}
+
+.bgcolor13 { 
+    background-color: var(--bgcolor13);
+}
+
+.bgcolor14 { 
+    background-color: var(--bgcolor14);
+}
+
+.bgcolor15 { 
+    background-color: var(--bgcolor15);
+}
+
+.bgcolor16 { 
+    background-color: var(--bgcolor16);
+}
+
+.bgcolor17 { 
+    background-color: var(--bgcolor17);
+}
+
+.bgcolor18 { 
+    background-color: var(--bgcolor18);
+}
+
+/** Twitter Tweets PopUp CSS Styling */
+.popup {
+    display: none;
+    position: fixed; 
+    padding-top: 5%;
+    z-index: 1; 
+    width: 100%;
+    height: 100%; 
+    background-color: gray; 
+    background-color: rgba(0,0,0,0.5);
+}
+
+.popup-tweet {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    border: 1px solid #888;
+    border-radius: 10px;
+    width: 45%;
+    height: 80%;
+    overflow: auto;
+}
+
+.close {
+    color: whitesmoke;
+    font-size: 3rem;
+    font-weight: bold;
+    position: fixed;
+    top: 1.8rem;
+    right: 25rem;
+}
+
+.close:hover {
+    cursor: pointer;
+    color: black;
+}
+ 
+/** DropDown CSS Styling */
+.dropbtn {
+    position: relative;
+    background-color: var(--color1);
+    color: var(--color2);
+    margin: 3rem 0 0 20rem;
+    padding: 16px;
+    font-size: 16px;
+    width: 160px;
+    border-radius: 5px;
+  }
+  
+  .dropdown {
+    width: 160px;
+    position: relative;
+    border-radius: 5px;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    margin-left: 20rem;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content div {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content div:hover {
+      background-color: #ddd;
+    }
+  
+  .dropdown:hover .dropdown-content {
+      display: block;
+      cursor: pointer;
+    }
+
+    .displayNone {
+        display: none;
+    }
+  
+  .dropdown:hover .dropbtn {
+      opacity: 0.7;
+    }
+
+  /** STOP Button CSS Styling */
+  .stopbtn {
+    position: relative;
+    background-color: var(--color1);
+    color: var(--color2);
+    margin: 7rem 0 0 20rem;
+    padding: 16px;
+    font-size: 16px;
+    min-width: 160px;
+    border-radius: 5px;
+  }
+
+  /** SVG CSS Styling */
+
+  .zohoLogo {
+    position: relative;
+    margin: 7rem 0 0 12rem ;
+    width: 400px;
+    height: 200px;
+    overflow: visible;
+  }
+
+    /** Animation Zoom Out */
+    @keyframes zoom {
+        0%	{transform: scale(1);}
+        100%	{transform: scale(1.25);}
+    }
+
+    .animateZoom .letterZ {
+        animation: zoom 1s ease-in-out;
+        animation-iteration-count: infinite;
+    }
+
+    .animateZoom .letterO {
+        animation: zoom 1s ease-in-out;
+        animation-delay: 1s;
+        animation-iteration-count: infinite;
+    }
+
+    .animateZoom .letterH {
+        animation: zoom 1s ease-in-out;
+        animation-delay: 2s;
+        animation-iteration-count: infinite;
+    }
+
+    .animateZoom .letterLastO {
+        animation: zoom 1s ease-in-out;
+        animation-delay: 3s;
+        animation-iteration-count: infinite;
+    }
+
+    /** Animation Zoom in */
+    @keyframes zoomIn {
+        0%	{transform: scale(1);}
+        100%	{transform: scale(0.75);}
+    }
+
+    .animateZoomIn .letterZ {
+        animation: zoomIn 1s ease-in;
+        animation-iteration-count: infinite;
+    }
+
+    .animateZoomIn .letterO {
+        animation: zoomIn 1s ease-in;
+        animation-delay: 1s;
+        animation-iteration-count: infinite;
+    }
+
+    .animateZoomIn .letterH {
+        animation: zoomIn 1s ease-in;
+        animation-delay: 2s;
+        animation-iteration-count: infinite;
+    }
+
+    .animateZoomIn .letterLastO {
+        animation: zoomIn 1s ease-in;
+        animation-delay: 3s;
+        animation-iteration-count: infinite;
+    }
+
+    /** Animation Vertical CSS Styling */
+    @keyframes upDown {
+        from {top: -120px;}
+        to {top: 240px;}
+    }
+
+    .animateVertical {
+        animation: upDown 2s infinite;
+        animation-direction: alternate;
+    }
+
+    /** Animation Horizontal CSS Styling */
+    @keyframes side {
+        from {left: -190px;}
+        to {left: 200px;}
+    }
+
+    .animateHorizontal {
+        animation: side 2s infinite;
+        animation-direction: alternate;
+    }
+
+    /** Animation Rotate CSS Styling */
+    @keyframes rotate { 
+        50% {
+            transform: scaleX(-1);
+            /* transform: rotate(360deg);
+            transform-origin: center; */
+        }
+    }
+
+    /* .animateRotate .letterZ {
+        animation: rotate 1s;
+    }
+    
+    .animateRotate .letterO {
+        animation: rotate 1s;
+        animation-delay: 1s;
+    }
+    
+    .animateRotate .letterH {
+        animation: rotate 1s;
+        animation-delay: 2s;
+    }
+    
+    .animateRotate .letterLastO {
+        animation: rotate 1s;
+        animation-delay: 3s;
+    }
+     */
+    .animateRotate {
+        animation: rotate 2s infinite;
+    }
